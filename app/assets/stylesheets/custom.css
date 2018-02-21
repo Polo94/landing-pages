@@ -11,6 +11,8 @@
 
 body {
 
+
+
 }
 
 ul {
@@ -42,6 +44,13 @@ header nav {
 header nav ul li {
 	display: inline-block;
 	margin-right: 20px;
+}
+
+.wrapper2 {
+	height: 600px;
+	background-image: url('/images/backgroundblue.png') center;
+
+
 }
 
 	/* header haut */
