@@ -48,8 +48,10 @@ header nav ul li {
 
 .wrapper2 {
 	height: 600px;
-	background-image: url('/images/backgroundblue.png') center;
-
+  
+    background-image: url('backgroundblue.png');
+    background-size: cover;
+    color: white;
 
 }
 
@@ -67,6 +69,13 @@ header nav ul li {
 	font-size: 15px;
 }
 
+.button1 {
+	display: block;
+	width: 100px;
+	height: 50px;
+	background: yellow;
+
+}
 
 
 	/* content gauche */
